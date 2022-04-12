@@ -1,0 +1,63 @@
+# Introdução ao Git
+
+Software de versionamento de código
+
+1 - Controle de versão
+
+2 - Armazenamento em nuvem
+
+3 - Trabalho em equipe
+
+4 - Melhorar seu código
+
+5 - Reconhecimento
+
+- **Comandos básicos para um bom desempenho no terminal**
+    
+    Navegação básica no terminal & instalação.
+    
+    GUI X CLI
+    
+    Windows: 
+    
+    - cd - navegar entre pastas
+    - cd .. - voltar página
+    - dir - listar pastas
+    - mkdir - criar pasta
+    - del  - deletar arquivos do diretório / rmdir -
+    - cls - limpar tela
+    
+    Unix:
+    
+    - cd
+    - ls - listar pastas
+    - mkdir
+    - rm -rf
+    
+    Sha1
+    
+    Objetos Internos do Git: 
+    
+    Blobs 
+    
+    Trees 
+    
+    Commits
+    
+    Chave SSH e Token
+    
+    Iniciando o Git
+    
+    - git init - inicializa o repositório dentro da pasta
+    - git add
+    - git commit
+    - -a (mostra arquivos ocultos)
+    - git status
+    - git add *
+    - git clone - copiar repositório
+    - git pull puxar
+    - git push enviar
+    
+    Conflitos no GitHub
+    
+    - merge
