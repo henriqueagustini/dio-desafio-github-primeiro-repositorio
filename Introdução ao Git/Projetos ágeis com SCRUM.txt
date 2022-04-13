@@ -1,0 +1,11 @@
+# ****Projetos ágeis com SCRUM****
+
+- Gestão de Projetos Tradicional: Só permite que o projeto avance quando uma fase está inteiramente completa.
+- Ágil: Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
+- SCRUM é um dos frameworks de gerenciamento de projetos ágeis; (LIN, XP, KANBAN)
+- Projetos usando equipes pequenas e multidisciplinares produzem os melhores resultados.
+- Transparência, adaptação e inspeção.
+- MVP Minimum Viable Product
+- Time: PO, SM, DEV
+- Cerimônias do SCRUM / Time box/ Sprint
+- Composição da Sprint
